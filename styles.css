@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+
+    font-family: 'poppins' , san-serif
+}
+.cabecalho {
+background-color:424E61;
+color:white;
+display: flex;
+justify-content: space around;
+align-items:center ;
+pandding: 24px 0;
+
+}
+
+.cabecalho-image{
+width: 10%;
+}
+
+.cabecalho-lista-item{
+  display:  inline-block;  
+  margin:0 16px
+}
